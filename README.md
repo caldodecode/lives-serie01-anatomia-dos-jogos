@@ -11,5 +11,5 @@ Na primeira live falamos brevemente sobre as "partes" comuns de um jogo `loop, i
 
 ```bash
 git clone https://github.com/Caldo-de-Code/lives-serie01-anatomia-dos-jogos
-git reset –hard <commit-hash>
+git reset –hard 2787d04943368c7d5aa44d082354f0b5623534b6
 ```
