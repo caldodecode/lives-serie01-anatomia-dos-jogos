@@ -16,5 +16,5 @@ cd lives-serie01-anatomia-dos-jogos
 git reset -–hard 007aaf3fc041e76d61e56e2bf301a796218965a3
 ```
 
-#### ou acesse
-[link para os arquivos criados na live 001](https://github.com/caldodecode/lives-serie01-anatomia-dos-jogos/tree/007aaf3fc041e76d61e56e2bf301a796218965a3)
+#### ou baixe o zip com os arquivos no link abaixo:
+[lives-serie01-anatomia-dos-jogos-007aaf3fc041e76d61e56e2bf301a796218965a3](https://github.com/caldodecode/lives-serie01-anatomia-dos-jogos/archive/007aaf3fc041e76d61e56e2bf301a796218965a3.zip)
