@@ -9,8 +9,12 @@ Na primeira live falamos brevemente sobre as "partes" comuns de um jogo `loop, i
 
 ### Para clonar/baixar os arquivos da live:
 
+#### execute:
 ```bash
 git clone https://github.com/Caldo-de-Code/lives-serie01-anatomia-dos-jogos
 cd lives-serie01-anatomia-dos-jogos
 git reset -–hard 007aaf3fc041e76d61e56e2bf301a796218965a3
 ```
+
+#### ou acesse
+[link para os arquivos criados na live 001](https://github.com/caldodecode/lives-serie01-anatomia-dos-jogos/tree/007aaf3fc041e76d61e56e2bf301a796218965a3)
